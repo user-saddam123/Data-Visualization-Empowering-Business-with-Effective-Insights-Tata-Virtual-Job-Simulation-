@@ -48,7 +48,7 @@ Thank you for taking the time to view my project. I hope you enjoyed it.
 
 Created and Analyzed by:
 
-Saddam Ansari @Aspiring Data Analyst LinkedIn
+Saddam Ansari @Aspiring Data Analyst[LinkeldIn](https://www.linkedin.com/in/saddam-ansari-dataanalyst)
 
 Location: India
 
